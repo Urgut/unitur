@@ -1,4 +1,3 @@
-Shahzod.profi, [05/02/2025 15:58]
 msgid "Home"
 msgstr "Главная"
 
@@ -213,7 +212,6 @@ msgstr "Вы используете устаревший браузер. Для 
 msgid "Tours"
 msgstr "Туры"
 
-Shahzod.profi, [05/02/2025 15:58]
 msgid "Excursions"
 msgstr "Экскурсии"
 
@@ -435,7 +433,6 @@ msgstr "Связаться с нами"
 msgid "Wonder Tour"
 msgstr "Wonder Tour"
 
-Shahzod.profi, [05/02/2025 15:58]
 msgid "All Rights Reserved"
 msgstr "Все права защищены"
 
@@ -464,3 +461,4 @@ msgstr "H6 Заголовок"
 
 msgid "Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page."
 msgstr "Добро пожаловать в наш замечательный мир. Мы искренне надеемся, что каждый пользователь, посетивший наш сайт, найдет именно то, что он/она ищет. С помощью расширенных функций активации аккаунта и новых виджетов для входа, вы обязательно получите отличное впечатление от использования нашей веб-страницы."
+"Content-Type: text/plain; charset=UTF-8\n"
