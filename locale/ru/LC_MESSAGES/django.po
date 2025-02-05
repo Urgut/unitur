@@ -1,0 +1,466 @@
+Shahzod.profi, [05/02/2025 15:58]
+msgid "Home"
+msgstr "Главная"
+
+msgid "Enjoy the Best Destinations with Our Travel Agency"
+msgstr "Путешествуйте в лучшие места с нашим туристическим агентством"
+
+msgid "Get in touch"
+msgstr "Связаться"
+
+msgid "Explore"
+msgstr "Исследовать"
+
+msgid "The World"
+msgstr "Мир"
+
+msgid "Trust"
+msgstr "Доверие"
+
+msgid "Our Experience"
+msgstr "Наш опыт"
+
+msgid "Create"
+msgstr "Создать"
+
+msgid "Your Tour"
+msgstr "Ваш тур"
+msgid "Balloon Flights"
+msgstr "Полет на воздушных шарах"
+
+msgid "Mountain Holiday"
+msgstr "Горный отдых"
+
+msgid "Beach Holidays"
+msgstr "Пляжный отдых"
+
+msgid "Other Tours"
+msgstr "Другие туры"
+
+msgid "Discover New Horizons"
+msgstr "Откройте новые горизонты"
+
+msgid "About us"
+msgstr "О нас"
+
+msgid "Why choose us"
+msgstr "Почему выбирают нас"
+
+msgid "Our mission"
+msgstr "Наша миссия"
+
+msgid "Get in Touch"
+msgstr "Связаться с нами"
+
+msgid "Read More"
+msgstr "Читать далее"
+
+msgid "Personalized Matching"
+msgstr "Персонализированный подбор"
+
+msgid "Wide Variety of Tours"
+msgstr "Широкий выбор туров"
+
+msgid "Highly Qualified Service"
+msgstr "Высококвалифицированное обслуживание"
+
+msgid "24/7 Support"
+msgstr "Поддержка 24/7"
+
+msgid "Handpicked Hotels"
+msgstr "Отобранные отели"
+
+msgid "Best Price Guarantee"
+msgstr "Гарантия лучшей цены"
+msgid "Hot Tours"
+msgstr "Горячие Туры"
+
+msgid "Buy This Tour"
+msgstr "Купить Этот Тур"
+
+msgid "4 customer reviews"
+msgstr "4 отзыва клиентов"
+
+msgid "5 customer reviews"
+msgstr "5 отзывов клиентов"
+
+msgid "Benidorm, Spain"
+msgstr "Бенидорм, Испания"
+
+msgid "Mauritius Island, Africa"
+msgstr "Остров Маврикий, Африка"
+
+msgid "$790"
+msgstr "$790"
+
+msgid "$890"
+msgstr "$890"
+
+msgid "Different People — One Mission"
+msgstr "Разные Люди — Одна Миссия"
+
+msgid "Founder, Owner"
+msgstr "Основатель, Владелец"
+
+msgid "Travel Agent"
+msgstr "Турагент"
+
+msgid "Diana Robinson"
+msgstr "Диана Робинсон"
+
+msgid "Peter McMillan"
+msgstr "Питер МакМиллан"
+
+msgid "+998 78 777 11 11"
+msgstr "+998 78 777 11 11"
+
+msgid "+1 323-913-4688"
+msgstr "+1 323-913-4688"
+msgid "Tour Consultant"
+msgstr "Консультант по турам"
+
+msgid "PR Manager"
+msgstr "Менеджер по связям с общественностью"
+
+msgid "Book a Tour Now"
+msgstr "Забронировать тур сейчас"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "First-class Impressions"
+msgstr "Впечатления высшего класса"
+
+msgid "are Waiting for You!"
+msgstr "ждут вас!"
+
+msgid "Our agency offers travelers various tours and excursions with destinations all over the world. Browse our website to find your dream tour!"
+msgstr "Наше агентство предлагает путешественникам различные туры и экскурсии по всему миру. Просматривайте наш сайт, чтобы найти ваш идеальный тур!"
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Thumbnail Classic"
+msgstr "Классический миниатюрный"
+
+msgid "Zoom"
+msgstr "Увеличить"
+msgid "Biz bilan bog'lanish"
+msgstr "Связаться с нами"
+
+msgid "Popular news"
+msgstr "Популярные новости"
+
+msgid "Quick links"
+msgstr "Быстрые ссылки"
+
+msgid "About us"
+msgstr "О нас"
+
+msgid "Our Tours"
+msgstr "Наши туры"
+
+msgid "Our Team"
+msgstr "Наша команда"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "Get in touch"
+msgstr "Связаться с нами"
+
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+msgid "All Rights Reserved"
+msgstr "Все права защищены"
+
+msgid "Design by"
+msgstr "Дизайн от"
+msgid "About"
+msgstr "О нас"
+
+msgid "You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."
+msgstr "Вы используете устаревший браузер. Для более быстрого и безопасного просмотра обновите его бесплатно сегодня."
+msgid "Home"
+msgstr "Главная"
+
+msgid "About"
+msgstr "О нас"
+
+msgid "Typography"
+msgstr "Типография"
+
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+msgid "Why choose us"
+msgstr "Почему выбирают нас"
+
+msgid "Experience"
+msgstr "Опыт"
+
+msgid "Skills"
+msgstr "Навыки"
+
+msgid "Mission"
+msgstr "Миссия"
+
+msgid "You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."
+msgstr "Вы используете устаревший браузер. Для более быстрого и безопасного просмотра обновите его бесплатно сегодня."
+msgid "Tours"
+msgstr "Туры"
+
+Shahzod.profi, [05/02/2025 15:58]
+msgid "Excursions"
+msgstr "Экскурсии"
+
+msgid "Hotel Bookings"
+msgstr "Бронирование отелей"
+
+msgid "Tours"
+msgstr "Туры"
+
+msgid "Excursions"
+msgstr "Экскурсии"
+msgid "Hotel Bookings"
+msgstr "Бронирование отелей"
+
+msgid "Get in touch"
+msgstr "Связаться с нами"
+
+msgid "Read more"
+msgstr "Читать далее"
+
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+msgid "Consectetur adipiscing"
+msgstr "Consectetur adipiscing"
+
+msgid "Sed do eiusmod"
+msgstr "Sed do eiusmod"
+
+msgid "Tempor incididunt"
+msgstr "Tempor incididunt"
+
+msgid "Sem fringilla"
+msgstr "Sem fringilla"
+
+msgid "Ut venenatis"
+msgstr "Ut venenatis"
+
+msgid "Download presentation"
+msgstr "Скачать презентацию"
+msgid "Destinations"
+msgstr "Направления"
+
+msgid "France"
+msgstr "Франция"
+
+msgid "Italy"
+msgstr "Италия"
+
+msgid "Egypt"
+msgstr "Египет"
+msgid "Dubai"
+msgstr "Дубай"
+
+msgid "Spain"
+msgstr "Испания"
+msgid "Africa"
+msgstr "Африка"
+
+msgid "What People Say"
+msgstr "Что говорят люди"
+
+msgid "Regular Client"
+msgstr "Обычный клиент"
+
+msgid "Catherine Williams"
+msgstr "Кэтрин Уильямс"
+msgid "Rupert Wood"
+msgstr "Руперт Вуд"
+
+msgid "Samantha Brown"
+msgstr "Саманта Браун"
+msgid "Awards"
+msgstr "Награды"
+
+msgid "Tours"
+msgstr "Туры"
+
+msgid "Travelers"
+msgstr "Путешественники"
+
+msgid "Team members"
+msgstr "Члены команды"
+msgid "Contact us"
+msgstr "Свяжитесь с нами"
+
+msgid "Popular news"
+msgstr "Популярные новости"
+
+msgid "Your Personal Guide to 5 Best Places to Visit on Earth"
+msgstr "Ваш личный гид по 5 лучшим местам для посещения на Земле"
+
+msgid "Top 10 Hotels: Rating by Wonder Tour Travel Experts"
+msgstr "Топ 10 отелей: рейтинг по версии экспертов путешествий Wonder Tour"
+msgid "Quick links"
+msgstr "Быстрые ссылки"
+
+msgid "About us"
+msgstr "О нас"
+
+msgid "Our Tours"
+msgstr "Наши туры"
+
+msgid "Our Team"
+msgstr "Наша команда"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "Get in touch"
+msgstr "Связаться с нами"
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+msgid "Wonder Tour"
+msgstr "Вондер Тур"
+
+msgid "All Rights Reserved."
+msgstr "Все права защищены."
+
+msgid "Design by"
+msgstr "Дизайн от"
+msgid "Home"
+msgstr "Главная"
+
+msgid "About"
+msgstr "О нас"
+
+msgid "Typography"
+msgstr "Типография"
+
+msgid "Contact Us"
+msgstr "Связаться с нами"
+
+msgid "9870 St Vincent Place, Glasgow, DC 45 Fr 45."
+msgstr "9870 Сент-Винсент Плейс, Глазго, DC 45 Fr 45."
+
+msgid "+1 323-913-4688"
+msgstr "+1 323-913-4688"
+
+msgid "+1 323-888-4554"
+msgstr "+1 323-888-4554"
+
+msgid "4730 Crystal Springs Dr, Los Angeles, CA 90027"
+msgstr "4730 Кристалл Спрингс Драйв, Лос-Анджелес, CA 90027"
+
+msgid "mail@demolink.org"
+msgstr "mail@demolink.org"
+
+msgid "info@demolink.org"
+msgstr "info@demolink.org"
+
+msgid "Get in touch"
+msgstr "Свяжитесь с нами"
+
+msgid "If you have any questions, just fill in the contact form, and we will answer you shortly."
+msgstr "Если у вас есть вопросы, просто заполните контактную форму, и мы скоро ответим вам."
+
+msgid "Your Name"
+msgstr "Ваше имя"
+msgid "E-mail"
+msgstr "Электронная почта"
+
+msgid "Phone"
+msgstr "Телефон"
+
+msgid "Message"
+msgstr "Сообщение"
+
+msgid "Send Message"
+msgstr "Отправить сообщение"
+
+msgid "Contact us"
+msgstr "Связаться с нами"
+
+msgid "+1 323-913-4688"
+msgstr "+1 323-913-4688"
+
+msgid "info@demolink.org"
+msgstr "info@demolink.org"
+
+msgid "4730 Crystal Springs Dr, Los Angeles, CA 90027"
+msgstr "4730 Кристалл Спрингс Драйв, Лос-Анджелес, CA 90027"
+
+msgid "Popular news"
+msgstr "Популярные новости"
+msgid "Your Personal Guide to 5 Best Places to Visit on Earth"
+msgstr "Ваш персональный гид по 5 лучшим местам для посещения на Земле"
+
+msgid "May 04, 2019"
+msgstr "4 мая 2019 года"
+
+msgid "Top 10 Hotels: Rating by Wonder Tour Travel Experts"
+msgstr "Топ-10 отелей: рейтинг экспертов по туризму Wonder Tour"
+
+msgid "Quick links"
+msgstr "Быстрые ссылки"
+
+msgid "About us"
+msgstr "О нас"
+
+msgid "Our Tours"
+msgstr "Наши туры"
+
+msgid "Our Team"
+msgstr "Наша команда"
+
+msgid "Gallery"
+msgstr "Галерея"
+
+msgid "Blog"
+msgstr "Блог"
+
+msgid "Get in touch"
+msgstr "Связаться с нами"
+msgid "Wonder Tour"
+msgstr "Wonder Tour"
+
+Shahzod.profi, [05/02/2025 15:58]
+msgid "All Rights Reserved"
+msgstr "Все права защищены"
+
+msgid "Design by"
+msgstr "Дизайн от"
+
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+msgid "H1 Heading"
+msgstr "H1 Заголовок"
+
+msgid "H2 Heading"
+msgstr "H2 Заголовок"
+
+msgid "H3 Heading"
+msgstr "H3 Заголовок"
+
+msgid "H4 Heading"
+msgstr "H4 Заголовок"
+
+msgid "H5 Heading"
+msgstr "H5 Заголовок"
+
+msgid "H6 Heading"
+msgstr "H6 Заголовок"
+
+msgid "Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page."
+msgstr "Добро пожаловать в наш замечательный мир. Мы искренне надеемся, что каждый пользователь, посетивший наш сайт, найдет именно то, что он/она ищет. С помощью расширенных функций активации аккаунта и новых виджетов для входа, вы обязательно получите отличное впечатление от использования нашей веб-страницы."
