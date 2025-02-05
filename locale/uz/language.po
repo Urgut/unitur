@@ -1,0 +1,5 @@
+msgid "Welcome to our website!"
+msgstr "Saytimizga xush kelibsiz!"
+
+msgid "Please login to continue"
+msgstr "Davom etish uchun tizimga kiring"
