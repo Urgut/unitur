@@ -1,0 +1,33 @@
+# locale/uz/LC_MESSAGES/django.po
+msgid "Home"
+msgstr "Bosh sahifa"
+
+msgid "Enjoy the Best Destinations with Our Travel Agency"
+msgstr "Eng yaxshi manzillarga sayohat agentligimiz bilan sayohat qiling"
+
+msgid "Get in touch"
+msgstr "Aloqa"
+
+msgid "Explore"
+msgstr "Kashf eting"
+
+msgid "The World"
+msgstr "Dunyo"
+
+msgid "Trust"
+msgstr "Ishonch"
+
+msgid "Our Experience"
+msgstr "Bizning tajribamiz"
+
+msgid "Create"
+msgstr "Yaratish"
+
+msgid "Your Tour"
+msgstr "Sizning sayohatingiz"
+
+msgid "Best Destinations"
+msgstr "Eng yaxshi manzillar"
+
+msgid "A team of professional Travel Experts"
+msgstr "Professional sayohat mutaxassislari jamoasi"
