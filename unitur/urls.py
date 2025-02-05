@@ -1,12 +1,14 @@
 from django.contrib import admin
-from django.urls import path
-from tur import views  # views modulini unitur papkasidan import qilish
+from django.urls import path, include
+from tur import views  # views modulini tur papkasidan import qilish
 from django.conf import settings
 from django.conf.urls.static import static
+from django.conf.urls.i18n import i18n_patterns
 
 urlpatterns = [
-    path('', views.home, name='home'),
-    path("admin/", admin.site.urls),
+    path('', views.home, name='home'),  # Asosiy sahifa
+    path('admin/', admin.site.urls),  # Admin panel
+    path('i18n/', include('django.conf.urls.i18n')),  # Til o'zgartirish yo'li
 ]
 
 if settings.DEBUG:

@@ -2,10 +2,29 @@ from django.shortcuts import render, redirect, get_object_or_404
 from django.contrib.auth.decorators import login_required
 from .models import Tur, Bron
 from .forms import BronForm
+from django.utils.translation import activate
+from django.conf import settings
+from django.utils.translation import get_language
 
 
 def home(request):
     return render(request, 'index.html')
+
+# def set_language(request):
+#     lang = request.POST.get('language')
+#     activate(lang)
+#     response = redirect('home')  # Bu yerda foydalanuvchini 'home' sahifasiga qayta yo'naltiryapsiz
+#     response.set_cookie(settings.LANGUAGE_COOKIE_NAME, lang)
+#     return response
+
+def set_language(request):
+    lang = request.POST.get('language')
+    activate(lang)
+    print(get_language())  # Hozirgi tilni konsolda ko'rish uchun
+    response = redirect('home')
+    response.set_cookie(settings.LANGUAGE_COOKIE_NAME, lang)
+    return response
+
 
 @login_required
 def tur_royxati(request):

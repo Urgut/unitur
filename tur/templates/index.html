@@ -2,7 +2,8 @@
 <!DOCTYPE html>
 <html class="wide wow-animation" lang="en">
   <head>
-    <title>wonderful tour</title>
+    {% load i18n %}
+    <title>{% trans "Xush kelibsiz" %}</title>
     <meta name="format-detection" content="telephone=no">
     <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -74,20 +75,44 @@
                   </ul>
                   <!-- RD Navbar Nav-->
                   <ul class="rd-navbar-nav">
-                    <li class="rd-nav-item active"><a class="rd-nav-link" href="index.html">Home</a>
+                    <li class="rd-nav-item active">
+                      <a class="rd-nav-link" href="index.html">{% trans "Bosh sahifa" %}</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.html">About</a>
+                    <li class="rd-nav-item">
+                      <a class="rd-nav-link" href="about.html">{% trans "Biz haqimizda" %}</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="about.html">Tur</a>
+                    <li class="rd-nav-item">
+                      <a class="rd-nav-link" href="about.html">{% trans "Tur" %}</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="typography.html">Typography</a>
+                    <li class="rd-nav-item">
+                      <a class="rd-nav-link" href="typography.html">{% trans "Typography" %}</a>
                     </li>
-                    <li class="rd-nav-item"><a class="rd-nav-link" href="contact-us.html">Contact Us</a>
+                    <li class="rd-nav-item">
+                      <a class="rd-nav-link" href="contact-us.html">{% trans "Biz bilan bog'lanish" %}</a>
                     </li>
-                  </ul>
-                </div>
-              </div>
-            </div>
+                  </ul>                  
+                  <div class="language-switcher">
+                          <select class="form-select" onchange="changeLanguage(this)">
+                            <option value="uz" {% if LANGUAGE_CODE == 'uz' %}selected{% endif %}>O'zbek</option>
+                            <option value="en" {% if LANGUAGE_CODE == 'en' %}selected{% endif %}>English</option>
+                            <!-- Ru tilini o'chirib tashlaganizni ko'rib turibman, kerak bo'lsa qo'shishingiz mumkin -->
+                          </select>
+                        </div>
+                        
+                        <form id="language-form" action="{% url 'set_language' %}" method="post" style="display:none;">
+                          {% csrf_token %}
+                          <input id="language-input" type="hidden" name="language" value="">
+                        </form>
+                        
+                        <script>
+                          function changeLanguage(select) {
+                            const lang = select.value;
+                            const languageInput = document.getElementById('language-input');
+                            languageInput.value = lang;  // Tilni hidden inputga yozish
+                            document.getElementById('language-form').submit();  // Formani yuborish
+                          }
+                        </script>
+                  </div>
           </nav>
         </div>
       </header>
@@ -99,8 +124,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10">
-                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">Enjoy the Best Destinations with Our Travel Agency</h6>
-                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>Explore</span><span class="font-weight-bold"> The World</span></h2><a class="button button-default-outline button-ujarak" href="#" data-caption-animate="fadeInLeft" data-caption-delay="0">Get in touch</a>
+                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">{% trans "Sayohat agentligimiz bilan eng yaxshi manzillardan bahramand bo‘ling" %}</h6>
+                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>{% trans "Explore" %}</span><span class="font-weight-bold">{% trans " Dunyo bo‘ylab sayohat qiling" %}</span></h2>
+                    <a class="button button-default-outline button-ujarak" href="#" data-caption-animate="fadeInLeft" data-caption-delay="0">{% trans "Get in touch" %}</a>
                   </div>
                 </div>
               </div>
@@ -111,8 +137,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10">
-                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">A team of professional Travel Experts</h6>
-                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>Trust</span><span class="font-weight-bold"> Our Experience</span></h2><a class="button button-default-outline button-ujarak" href="#" data-caption-animate="fadeInLeft" data-caption-delay="0">Get in touch</a>
+                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">{% trans "A team of professional Travel Experts" %}</h6>
+                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>{% trans "Trust" %}</span><span class="font-weight-bold">{% trans " Our Experience" %}</span></h2>
+                    <a class="button button-default-outline button-ujarak" href="#" data-caption-animate="fadeInLeft" data-caption-delay="0">{% trans "Get in touch" %}</a>
                   </div>
                 </div>
               </div>
@@ -123,8 +150,9 @@
               <div class="container">
                 <div class="row">
                   <div class="col-md-10">
-                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">Build your Next Holiday Trip with Us</h6>
-                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>Create</span><span class="font-weight-bold"> Your Tour</span></h2><a class="button button-default-outline button-ujarak" href="#" data-caption-animate="fadeInLeft" data-caption-delay="0">Get in touch</a>
+                    <h6 class="text-uppercase" data-caption-animate="fadeInRight" data-caption-delay="0">{% trans "Build your Next Holiday Trip with Us" %}</h6>
+                    <h2 class="oh font-weight-light" data-caption-animate="slideInUp" data-caption-delay="100"><span>{% trans "Create" %}</span><span class="font-weight-bold">{% trans " Your Tour" %}</span></h2>
+                    <a class="button button-default-outline button-ujarak" href="#" data-caption-animate="fadeInLeft" data-caption-delay="0">{% trans "Get in touch" %}</a>
                   </div>
                 </div>
               </div>
@@ -134,6 +162,7 @@
         <!-- Swiper Pagination-->
         <div class="swiper-pagination"></div>
       </section>
+      
       <!-- Section Box Categories-->
       <section class="section section-lg section-top-1 bg-gray-4">
         <div class="container offset-negative-1">
@@ -432,42 +461,42 @@
             <article class="thumbnail thumbnail-mary">
               <div class="thumbnail-mary-figure"><img src="{% static 'images/gallery-image-1-270x195.jpg' %}" alt="" width="270" height="195"/>
               </div>
-              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-1-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-1-270x195jpg' %}" alt="" width="270" height="195"/></a>
+              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-1-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-1-270x195.jpg' %}" alt="" width="270" height="195"/></a>
               </div>
             </article>
             <!-- Thumbnail Classic-->
             <article class="thumbnail thumbnail-mary">
               <div class="thumbnail-mary-figure"><img src="{% static 'images/gallery-image-2-270x195.jpg' %}" alt="" width="270" height="195"/>
               </div>
-              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-2-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-2-270x195jpg' %}" alt="" width="270" height="195"/></a>
+              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-2-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-2-270x195.jpg' %}" alt="" width="270" height="195"/></a>
               </div>
             </article>
             <!-- Thumbnail Classic-->
             <article class="thumbnail thumbnail-mary">
               <div class="thumbnail-mary-figure"><img src="{% static 'images/gallery-image-3-270x195.jpg' %}" alt="" width="270" height="195"/>
               </div>
-              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-3-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-3-270x195jpg' %}" alt="" width="270" height="195"/></a>
+              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-3-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-3-270x195.jpg' %}" alt="" width="270" height="195"/></a>
               </div>
             </article>
             <!-- Thumbnail Classic-->
             <article class="thumbnail thumbnail-mary">
               <div class="thumbnail-mary-figure"><img src="{% static 'images/gallery-image-4-270x195.jpg' %}" alt="" width="270" height="195"/>
               </div>
-              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-4-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-4-270x195jpg' %}" alt="" width="270" height="195"/></a>
+              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-4-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-4-270x195.jpg' %}" alt="" width="270" height="195"/></a>
               </div>
             </article>
             <!-- Thumbnail Classic-->
             <article class="thumbnail thumbnail-mary">
               <div class="thumbnail-mary-figure"><img src="{% static 'images/gallery-image-5-270x195.jpg' %}" alt="" width="270" height="195"/>
               </div>
-              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-5-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-5-270x195jpg' %}" alt="" width="270" height="195"/></a>
+              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-5-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-5-270x195.jpg' %}" alt="" width="270" height="195"/></a>
               </div>
             </article>
             <!-- Thumbnail Classic-->
             <article class="thumbnail thumbnail-mary">
               <div class="thumbnail-mary-figure"><img src="{% static 'images/gallery-image-6-270x195.jpg' %}" alt="" width="270" height="195"/>
               </div>
-              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-7-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-5-270x195jpg' %}" alt="" width="270" height="195"/></a>
+              <div class="thumbnail-mary-caption"><a class="icon fl-bigmug-line-zoom60" href="{% static 'images/gallery-image-7-1200x800-original.jpg' %}" data-lightgallery="item"><img src="{% static 'images/gallery-image-5-270x195.jpg' %}" alt="" width="270" height="195"/></a>
               </div>
             </article>
             <!-- Thumbnail Classic-->
