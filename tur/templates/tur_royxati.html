@@ -1,0 +1,10 @@
+<h1>Sayohat turlari</h1>
+<ul>
+    {% for tur in turlar %}
+        <li>
+            <h2>{{ tur.nom }}</h2>
+            <p>{{ tur.manzil }} | Narx: {{ tur.narx }} UZS</p>
+            <a href="{% url 'tur_bronlash' tur.id %}">Bron qilish</a>
+        </li>
+    {% endfor %}
+</ul>

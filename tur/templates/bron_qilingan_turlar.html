@@ -1,0 +1,6 @@
+<h1>Bron qilingan turlar</h1>
+<ul>
+    {% for bron in bronlar %}
+        <li>{{ bron.tur.nom }} | Bron sanasi: {{ bron.bron_sanasi }} | Yo'lovchilar soni: {{ bron.yolovchilar_soni }} | Umumiy narx: {{ bron.umumiy_narx }} UZS</li>
+    {% endfor %}
+</ul>
