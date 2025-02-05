@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
@@ -81,3 +82,442 @@ msgstr ""
 #: .\tur\templates\index.html:154
 msgid " Your Tour"
 msgstr ""
+=======
+msgid "Home"
+msgstr "Bosh sahifa"
+
+msgid "Enjoy the Best Destinations with Our Travel Agency"
+msgstr "Eng yaxshi manzillarga sayohat agentligimiz bilan sayohat qiling"
+
+msgid "Get in touch"
+msgstr "Aloqa"
+
+msgid "Explore"
+msgstr "Kashf etish"
+
+msgid "The World"
+msgstr "Dunyo"
+
+msgid "Trust"
+msgstr "Ishonch"
+
+msgid "Our Experience"
+msgstr "Bizning tajribamiz"
+
+msgid "Create"
+msgstr "Yaratish"
+
+msgid "Your Tour"
+msgstr "Sayohatingiz"
+
+msgid "Balloon Flights"
+msgstr "Sharlarga uchish"
+
+msgid "Mountain Holiday"
+msgstr "Tog'dagi ta'til"
+
+msgid "Beach Holidays"
+msgstr "Qirg'oqdagi ta'til"
+
+msgid "Other Tours"
+msgstr "Boshqa sayohatlar"
+
+msgid "Discover New Horizons"
+msgstr "Yangi ufqlarni kashf eting"
+
+msgid "About us"
+msgstr "Biz haqimizda"
+
+msgid "Why choose us"
+msgstr "Nega bizni tanlashingiz kerak"
+
+msgid "Our mission"
+msgstr "Bizning missiyamiz"
+
+msgid "Get in Touch"
+msgstr "Aloqa o'rnating"
+
+msgid "Read More"
+msgstr "Batafsil o'qish"
+
+msgid "Personalized Matching"
+msgstr "Shaxsiy moslashtirish"
+
+msgid "Wide Variety of Tours"
+msgstr "Sayohatlarning keng tanlovi"
+
+msgid "Highly Qualified Service"
+msgstr "Yuqori malakali xizmat"
+
+msgid "24/7 Support"
+msgstr "24/7 qo'llab-quvvatlash"
+
+msgid "Handpicked Hotels"
+msgstr "Tanlangan mehmonxonalar"
+
+msgid "Best Price Guarantee"
+msgstr "Eng yaxshi narx kafolati"
+
+msgid "Hot Tours"
+msgstr "Issiq Sayohatlar"
+
+msgid "Buy This Tour"
+msgstr "Ushbu Sayohatni Sotib Oling"
+
+msgid "4 customer reviews"
+msgstr "4 mijoz sharhlari"
+
+msgid "5 customer reviews"
+msgstr "5 mijoz sharhlari"
+
+msgid "Benidorm, Spain"
+msgstr "Benidorm, Ispaniya"
+
+msgid "Mauritius Island, Africa"
+msgstr "Mauritius Orli, Afrika"
+
+msgid "Different People — One Mission"
+msgstr "Turli Kishilar — Bitta Missiya"
+
+msgid "Founder, Owner"
+msgstr "Asoschisi, Egasi"
+
+msgid "Travel Agent"
+msgstr "Sayohat Agentligi"
+
+msgid "Diana Robinson"
+msgstr "Diana Robinson"
+
+msgid "Peter McMillan"
+msgstr "Peter McMillan"
+
+msgid "Tour Consultant"
+msgstr "Sayohat bo'yicha maslahatchi"
+
+msgid "PR Manager"
+msgstr "PR menejeri"
+
+msgid "Book a Tour Now"
+msgstr "Endi sayohatni bron qiling"
+
+msgid "Gallery"
+msgstr "Galereya"
+
+msgid "First-class Impressions"
+msgstr "Birinchi darajali taassurotlar"
+
+msgid "are Waiting for You!"
+msgstr "sizni kutmoqda!"
+
+msgid "Our agency offers travelers various tours and excursions with destinations all over the world. Browse our website to find your dream tour!"
+msgstr "Bizning agentlik dunyo bo'ylab turli xil sayohatlar va ekskursiyalarni taklif etadi. Bizning saytimizni ko'rib chiqing va orzuingizdagi sayohatni toping!"
+
+msgid "Gallery"
+msgstr "Galereya"
+
+msgid "Thumbnail Classic"
+msgstr "Klassik miniatura"
+
+msgid "Zoom"
+msgstr "Kattalashtirish"
+msgid "Biz bilan bog'lanish"
+msgstr "Biz bilan bog'lanish"
+
+msgid "Popular news"
+msgstr "Mashhur yangiliklar"
+
+msgid "Quick links"
+msgstr "Tez havolalar"
+
+msgid "About us"
+msgstr "Biz haqimizda"
+
+msgid "Our Tours"
+msgstr "Bizning sayohatlarimiz"
+
+msgid "Our Team"
+msgstr "Bizning jamoamiz"
+
+msgid "Gallery"
+msgstr "Galereya"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Get in touch"
+msgstr "Biz bilan bog'lanish"
+
+msgid "Privacy Policy"
+msgstr "Maxfiylik siyosati"
+
+msgid "All Rights Reserved"
+msgstr "Barcha huquqlar himoyalangan"
+
+msgid "Design by"
+msgstr "Dizayn tomonidan"
+
+msgid "About"
+msgstr "Biz haqimizda"
+
+msgid "You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."
+msgstr "Siz eskirgan brauzerdan foydalanmoqdasiz. Tezroq va xavfsizroq serf qilish uchun uni bepul yangilang."
+
+msgid "Home"
+msgstr "Bosh sahifa"
+
+msgid "About"
+msgstr "Biz haqimizda"
+
+msgid "Typography"
+msgstr "Tipografiya"
+
+msgid "Contact Us"
+msgstr "Biz bilan bog'lanish"
+
+msgid "Why choose us"
+msgstr "Nega bizni tanlashingiz kerak"
+
+msgid "Experience"
+msgstr "Tajribamiz"
+
+msgid "Skills"
+msgstr "Ko'nikmalar"
+
+msgid "Mission"
+msgstr "Missiya"
+
+msgid "You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."
+msgstr "Siz eskirgan brauzerdan foydalanmoqdasiz. Tezroq va xavfsizroq serf qilish uchun uni bepul yangilang."
+
+msgid "Tours"
+msgstr "Turlar"
+
+msgid "Excursions"
+msgstr "Ekskursiyalar"
+
+msgid "Hotel Bookings"
+msgstr "Mehmonxona bronlari"
+
+msgid "Tours"
+msgstr "Turlar"
+
+msgid "Excursions"
+msgstr "Ekskursiyalar"
+
+msgid "Hotel Bookings"
+msgstr "Mehmonxona bronlari"
+
+msgid "Get in touch"
+msgstr "Aloqa"
+
+msgid "Read more"
+msgstr "Batafsil o'qish"
+
+msgid "Lorem ipsum"
+msgstr "Lorem ipsum"
+
+msgid "Consectetur adipiscing"
+msgstr "Consectetur adipiscing"
+
+msgid "Sed do eiusmod"
+msgstr "Sed do eiusmod"
+
+msgid "Tempor incididunt"
+msgstr "Tempor incididunt"
+
+msgid "Sem fringilla"
+msgstr "Sem fringilla"
+
+msgid "Ut venenatis"
+msgstr "Ut venenatis"
+
+msgid "Download presentation"
+msgstr "Prezentatsiyani yuklab olish"
+
+msgid "Destinations"
+msgstr "Manzillar"
+
+msgid "France"
+msgstr "Fransiya"
+
+msgid "Italy"
+msgstr "Italiya"
+
+msgid "Egypt"
+msgstr "Misr"
+
+msgid "Dubai"
+msgstr "Dubay"
+
+msgid "Spain"
+msgstr "Ispaniya"
+
+msgid "Africa"
+msgstr "Afrika"
+
+msgid "What People Say"
+msgstr "Odamlar nima deyishadi"
+
+msgid "Regular Client"
+msgstr "Doimiy mijoz"
+
+msgid "Catherine Williams"
+msgstr "Ketrin Uilyams"
+
+msgid "Rupert Wood"
+msgstr "Rupert Wood"
+
+msgid "Samantha Brown"
+msgstr "Samanta Braun"
+
+msgid "Awards"
+msgstr "Mukofotlar"
+
+msgid "Tours"
+msgstr "Turlar"
+
+msgid "Travelers"
+msgstr "Sayohatchilar"
+
+msgid "Team members"
+msgstr "Jamoa a'zolari"
+
+msgid "Contact us"
+msgstr "Biz bilan bog'lanish"
+
+msgid "Popular news"
+msgstr "Mashhur yangiliklar"
+
+msgid "Your Personal Guide to 5 Best Places to Visit on Earth"
+msgstr "Yer yuzidagi eng yaxshi 5 ta joyni ko'rish bo'yicha shaxsiy qo'llanma"
+
+msgid "Top 10 Hotels: Rating by Wonder Tour Travel Experts"
+msgstr "Top 10 mehmonxona: Wonder Tour sayohat mutaxassislarining reytingi"
+
+msgid "Quick links"
+msgstr "Tezkor havolalar"
+
+msgid "About us"
+msgstr "Biz haqimizda"
+
+msgid "Our Tours"
+msgstr "Bizning turlar"
+
+msgid "Our Team"
+msgstr "Bizning jamoa"
+
+msgid "Gallery"
+msgstr "Galereya"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Get in touch"
+msgstr "Biz bilan bog'lanish"
+
+msgid "Privacy Policy"
+msgstr "Maxfiylik siyosati"
+
+msgid "Wonder Tour"
+msgstr "Wonder Tour"
+
+msgid "All Rights Reserved."
+msgstr "Barcha huquqlar himoyalangan."
+
+msgid "Design by"
+msgstr "Dizayn: "
+msgid "Home"
+msgstr "Bosh sahifa"
+
+msgid "About"
+msgstr "Haqqimizda"
+
+msgid "Typography"
+msgstr "Tipografiya"
+
+msgid "Contact Us"
+msgstr "Biz bilan bog'lanish"
+
+msgid "9870 St Vincent Place, Glasgow, DC 45 Fr 45."
+msgstr "9870 Saint Vincent Joyi, Glasgow, DC 45 Fr 45."
+
+msgid "4730 Crystal Springs Dr, Los Angeles, CA 90027"
+msgstr "4730 Crystal Springs Dr, Los-Anjeles, CA 90027"
+
+msgid "Get in touch"
+msgstr "Bog'laning"
+
+msgid "If you have any questions, just fill in the contact form, and we will answer you shortly."
+msgstr "Agar sizda savollar bo'lsa, iltimos, kontakt formasini to'ldiring, va biz tez orada sizga javob beramiz."
+
+msgid "Your Name"
+msgstr "Ismingiz"
+
+msgid "E-mail"
+msgstr "Elektron pochta"
+
+msgid "Phone"
+msgstr "Telefon"
+
+msgid "Message"
+msgstr "Xabar"
+
+msgid "Send Message"
+msgstr "Xabarni yuborish"
+
+msgid "Contact us"
+msgstr "Biz bilan bog'lanish"
+
+msgid "4730 Crystal Springs Dr, Los Angeles, CA 90027"
+msgstr "4730 Crystal Springs Dr, Los-Anjeles, CA 90027"
+
+msgid "Popular news"
+msgstr "Mashhur yangiliklar"
+
+msgid "Your Personal Guide to 5 Best Places to Visit on Earth"
+msgstr "Dunyo bo'ylab tashrif buyurish uchun eng yaxshi 5 joyga shaxsiy qo'llanma"
+
+msgid "May 04, 2019"
+msgstr "2019-yil 4-may"
+
+msgid "Top 10 Hotels: Rating by Wonder Tour Travel Experts"
+msgstr "Eng yaxshi 10 mehmonxona: Wonder Tour sayohat mutaxassislari reytingi"
+
+msgid "Quick links"
+msgstr "Tezkor havolalar"
+
+msgid "About us"
+msgstr "Biz haqimizda"
+
+msgid "Our Tours"
+msgstr "Bizning sayohatlarimiz"
+
+msgid "Our Team"
+msgstr "Bizning jamoamiz"
+
+msgid "Gallery"
+msgstr "Galereya"
+
+msgid "Blog"
+msgstr "Blog"
+
+msgid "Get in touch"
+msgstr "Aloqa"
+
+msgid "Wonder Tour"
+msgstr "Wonder Tour"
+
+msgid "All Rights Reserved"
+msgstr "Barcha huquqlar himoyalangan"
+
+msgid "Design by"
+msgstr "Dizayn:"
+
+msgid "Privacy Policy"
+msgstr "Maxfiylik siyosati"
+
+msgid "Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page."
+msgstr "Bizning ajoyib dunyomizga xush kelibsiz. Biz har bir foydalanuvchi veb-saytimizga kirib, aynan nima izlayotganini topishini samimiy umid qilamiz. Hisobni faollashtirish va yangi kirish vidjetlari bilan siz veb-sahifamizdan foydalanish tajribasidan albatta zavq olasiz."
+
+"Content-Type: text/plain; charset=UTF-8\n"
+>>>>>>> ea7dfe81caeb7b5e8c85e5ce938f400943a409ea
