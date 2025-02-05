@@ -207,7 +207,6 @@ msgstr "Ko'nikmalar"
 msgid "Mission"
 msgstr "Missiya"
 
-Shahzod.profi, [05/02/2025 15:56]
 msgid "You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."
 msgstr "Siz eskirgan brauzerdan foydalanmoqdasiz. Tezroq va xavfsizroq serf qilish uchun uni bepul yangilang."
 msgid "Tours"
@@ -411,7 +410,6 @@ msgstr "2019-yil 4-may"
 msgid "Top 10 Hotels: Rating by Wonder Tour Travel Experts"
 msgstr "Eng yaxshi 10 mehmonxona: Wonder Tour sayohat mutaxassislari reytingi"
 
-Shahzod.profi, [05/02/2025 15:56]
 msgid "Quick links"
 msgstr "Tezkor havolalar"
 
@@ -463,3 +461,4 @@ msgstr "H6 Sarlavha"
 
 msgid "Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page."
 msgstr "Bizning ajoyib dunyomizga xush kelibsiz. Biz har bir foydalanuvchi veb-saytimizga kirib, aynan nima izlayotganini topishini samimiy umid qilamiz. Hisobni faollashtirish va yangi kirish vidjetlari bilan siz veb-sahifamizdan foydalanish tajribasidan albatta zavq olasiz."
+"Content-Type: text/plain; charset=UTF-8\n"
