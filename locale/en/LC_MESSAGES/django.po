@@ -24,6 +24,7 @@ msgstr "Yaratish"
 
 msgid "Your Tour"
 msgstr "Sayohatingiz"
+
 msgid "Balloon Flights"
 msgstr "Sharlarga uchish"
 
@@ -71,6 +72,7 @@ msgstr "Tanlangan mehmonxonalar"
 
 msgid "Best Price Guarantee"
 msgstr "Eng yaxshi narx kafolati"
+
 msgid "Hot Tours"
 msgstr "Issiq Sayohatlar"
 
@@ -89,12 +91,6 @@ msgstr "Benidorm, Ispaniya"
 msgid "Mauritius Island, Africa"
 msgstr "Mauritius Orli, Afrika"
 
-msgid "$790"
-msgstr "$790"
-
-msgid "$890"
-msgstr "$890"
-
 msgid "Different People — One Mission"
 msgstr "Turli Kishilar — Bitta Missiya"
 
@@ -110,11 +106,6 @@ msgstr "Diana Robinson"
 msgid "Peter McMillan"
 msgstr "Peter McMillan"
 
-msgid "+998 78 777 11 11"
-msgstr "+998 78 777 11 11"
-
-msgid "+1 323-913-4688"
-msgstr "+1 323-913-4688"
 msgid "Tour Consultant"
 msgstr "Sayohat bo'yicha maslahatchi"
 
@@ -135,6 +126,7 @@ msgstr "sizni kutmoqda!"
 
 msgid "Our agency offers travelers various tours and excursions with destinations all over the world. Browse our website to find your dream tour!"
 msgstr "Bizning agentlik dunyo bo'ylab turli xil sayohatlar va ekskursiyalarni taklif etadi. Bizning saytimizni ko'rib chiqing va orzuingizdagi sayohatni toping!"
+
 msgid "Gallery"
 msgstr "Galereya"
 
@@ -178,11 +170,13 @@ msgstr "Barcha huquqlar himoyalangan"
 
 msgid "Design by"
 msgstr "Dizayn tomonidan"
+
 msgid "About"
 msgstr "Biz haqimizda"
 
 msgid "You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."
 msgstr "Siz eskirgan brauzerdan foydalanmoqdasiz. Tezroq va xavfsizroq serf qilish uchun uni bepul yangilang."
+
 msgid "Home"
 msgstr "Bosh sahifa"
 
@@ -209,6 +203,7 @@ msgstr "Missiya"
 
 msgid "You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."
 msgstr "Siz eskirgan brauzerdan foydalanmoqdasiz. Tezroq va xavfsizroq serf qilish uchun uni bepul yangilang."
+
 msgid "Tours"
 msgstr "Turlar"
 
@@ -223,6 +218,7 @@ msgstr "Turlar"
 
 msgid "Excursions"
 msgstr "Ekskursiyalar"
+
 msgid "Hotel Bookings"
 msgstr "Mehmonxona bronlari"
 
@@ -252,6 +248,7 @@ msgstr "Ut venenatis"
 
 msgid "Download presentation"
 msgstr "Prezentatsiyani yuklab olish"
+
 msgid "Destinations"
 msgstr "Manzillar"
 
@@ -263,11 +260,13 @@ msgstr "Italiya"
 
 msgid "Egypt"
 msgstr "Misr"
+
 msgid "Dubai"
 msgstr "Dubay"
 
 msgid "Spain"
 msgstr "Ispaniya"
+
 msgid "Africa"
 msgstr "Afrika"
 
@@ -279,11 +278,13 @@ msgstr "Doimiy mijoz"
 
 msgid "Catherine Williams"
 msgstr "Ketrin Uilyams"
+
 msgid "Rupert Wood"
 msgstr "Rupert Wood"
 
 msgid "Samantha Brown"
 msgstr "Samanta Braun"
+
 msgid "Awards"
 msgstr "Mukofotlar"
 
@@ -295,6 +296,7 @@ msgstr "Sayohatchilar"
 
 msgid "Team members"
 msgstr "Jamoa a'zolari"
+
 msgid "Contact us"
 msgstr "Biz bilan bog'lanish"
 
@@ -306,6 +308,7 @@ msgstr "Yer yuzidagi eng yaxshi 5 ta joyni ko'rish bo'yicha shaxsiy qo'llanma"
 
 msgid "Top 10 Hotels: Rating by Wonder Tour Travel Experts"
 msgstr "Top 10 mehmonxona: Wonder Tour sayohat mutaxassislarining reytingi"
+
 msgid "Quick links"
 msgstr "Tezkor havolalar"
 
@@ -326,6 +329,7 @@ msgstr "Blog"
 
 msgid "Get in touch"
 msgstr "Biz bilan bog'lanish"
+
 msgid "Privacy Policy"
 msgstr "Maxfiylik siyosati"
 
@@ -352,20 +356,8 @@ msgstr "Biz bilan bog'lanish"
 msgid "9870 St Vincent Place, Glasgow, DC 45 Fr 45."
 msgstr "9870 Saint Vincent Joyi, Glasgow, DC 45 Fr 45."
 
-msgid "+1 323-913-4688"
-msgstr "+1 323-913-4688"
-
-msgid "+1 323-888-4554"
-msgstr "+1 323-888-4554"
-
 msgid "4730 Crystal Springs Dr, Los Angeles, CA 90027"
 msgstr "4730 Crystal Springs Dr, Los-Anjeles, CA 90027"
-
-msgid "mail@demolink.org"
-msgstr "mail@demolink.org"
-
-msgid "info@demolink.org"
-msgstr "info@demolink.org"
 
 msgid "Get in touch"
 msgstr "Bog'laning"
@@ -375,6 +367,7 @@ msgstr "Agar sizda savollar bo'lsa, iltimos, kontakt formasini to'ldiring, va bi
 
 msgid "Your Name"
 msgstr "Ismingiz"
+
 msgid "E-mail"
 msgstr "Elektron pochta"
 
@@ -390,17 +383,12 @@ msgstr "Xabarni yuborish"
 msgid "Contact us"
 msgstr "Biz bilan bog'lanish"
 
-msgid "+1 323-913-4688"
-msgstr "+1 323-913-4688"
-
-msgid "info@demolink.org"
-msgstr "info@demolink.org"
-
 msgid "4730 Crystal Springs Dr, Los Angeles, CA 90027"
 msgstr "4730 Crystal Springs Dr, Los-Anjeles, CA 90027"
 
 msgid "Popular news"
 msgstr "Mashhur yangiliklar"
+
 msgid "Your Personal Guide to 5 Best Places to Visit on Earth"
 msgstr "Dunyo bo'ylab tashrif buyurish uchun eng yaxshi 5 joyga shaxsiy qo'llanma"
 
@@ -430,6 +418,7 @@ msgstr "Blog"
 
 msgid "Get in touch"
 msgstr "Aloqa"
+
 msgid "Wonder Tour"
 msgstr "Wonder Tour"
 
@@ -441,24 +430,8 @@ msgstr "Dizayn:"
 
 msgid "Privacy Policy"
 msgstr "Maxfiylik siyosati"
-msgid "H1 Heading"
-msgstr "H1 Sarlavha"
-
-msgid "H2 Heading"
-msgstr "H2 Sarlavha"
-
-msgid "H3 Heading"
-msgstr "H3 Sarlavha"
-
-msgid "H4 Heading"
-msgstr "H4 Sarlavha"
-
-msgid "H5 Heading"
-msgstr "H5 Sarlavha"
-
-msgid "H6 Heading"
-msgstr "H6 Sarlavha"
 
 msgid "Welcome to our wonderful world. We sincerely hope that each and every user entering our website will find exactly what he/she is looking for. With advanced features of activating account and new login widgets, you will definitely have a great experience of using our web page."
 msgstr "Bizning ajoyib dunyomizga xush kelibsiz. Biz har bir foydalanuvchi veb-saytimizga kirib, aynan nima izlayotganini topishini samimiy umid qilamiz. Hisobni faollashtirish va yangi kirish vidjetlari bilan siz veb-sahifamizdan foydalanish tajribasidan albatta zavq olasiz."
+
 "Content-Type: text/plain; charset=UTF-8\n"
